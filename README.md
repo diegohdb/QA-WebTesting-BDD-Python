@@ -60,6 +60,7 @@ Issue the below commands in project root directory:
 ```
 allure_behave serve reports/
 ```
+_If getting any issues with allure report generation take a look <a href="https://github.com/allure-framework/allure2/issues/989">here</a>._
 
 
 
